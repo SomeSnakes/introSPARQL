@@ -5,4 +5,6 @@
 |4.03.2024|recherche de sources|sites internet : SPARQL Protocol and RDF Query Language (s. d., 2017) SPARQL Protocol and RDF Query Language — Wikiversité (wikiversity.org),   Ontology, Notation 3, and SPARQL (Lutosław, 2011) Ontology, Notation 3, and SPARQL - CodeProject,   SPARQL Endpoints lists an analysis (Happybeing, 2020) GitHub - happybeing/SPARQL-endpoints-lists: SPARQL Endpoints Lists and Analysis,  Overview Semantic Web Courses (Prof. Dr. Harald Sack, 2016) https://open.hpi.de/courses/semanticweb2016/overview,   La structuration : le modèle HBDS (François Bouille, 2011) 10_-_La_structuration__le_modele_HBDS.pdf (ensg.eu), SPARQL Anything (Enridaga, 2024) https://github.com/SPARQL-Anything/sparql.anythingy, Livres : Gaudon F., Faron-Zucker C., Corby O. (2012) Le web sémantique. Gunod |
 |11.03.2024|création du fichier| Recherche sur ce qu'est le web sémantique (The semantic web made easy, s.d.)|
 |12.03.2024|Journal de bord|Transfère du journal de bord depuis Word à un fichier md.|
-|22.03.2024|Introduction au web sémantique|Suivi de la première semaine de cours de la HPI (semantic web, HPI)|
+|22.03.2024|Introduction au web sémantique|Suivi de la première leçon du cours de la HPI (semantic web, HPI)|
+|25.03.2024|Introduction au web sémantique|Suivi de la deuxième leçon du cours de la HPI, compréhension des termes "sujet", "prédicat", "objet".|
+|27.03.2024|Introduction au web sémantique et nouvelle source|SPARQL/Expressions and Functions (s.d., 2018) https://en.wikibooks.org/wiki/SPARQL/Expressions_and_Functions|
