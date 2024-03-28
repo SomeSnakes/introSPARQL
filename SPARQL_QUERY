@@ -1,0 +1,6 @@
+Select ?planet ?temperature ?apoapsis
+WHERE
+{
+?planet rdfs:label "Pluto"@en ; dbo:meanTemperature ?temperature ; dbo:apoapsis ?apoapsis
+}
+#requête sur dbpedia.org

@@ -7,4 +7,5 @@
 |12.03.2024|Journal de bord|Transfère du journal de bord depuis Word à un fichier md.|
 |22.03.2024|Introduction au web sémantique|Suivi de la première leçon du cours de la HPI (semantic web, HPI)|
 |25.03.2024|Introduction au web sémantique|Suivi de la deuxième leçon du cours de la HPI, compréhension des termes "sujet", "prédicat", "objet".|
-|27.03.2024|Introduction au web sémantique et nouvelle source|SPARQL/Expressions and Functions (s.d., 2018) https://en.wikibooks.org/wiki/SPARQL/Expressions_and_Functions|
+|27.03.2024|Introduction au web sémantique et nouvelle source|SPARQL/Expressions and Functions (s.d., 2018) https://en.wikibooks.org/wiki/SPARQL/Expressions_and_Functions, Suivi du cours de la HPI sur la structure du web sémantique et de la structure RDF|
+|28.03.2024|Tutoriel et Code|Continuation du tutoriel avec les nouvelles informations du cours HPI et premières commandes SPARQL faites (dbpedia.org)|
