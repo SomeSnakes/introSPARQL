@@ -4,3 +4,10 @@ WHERE
 ?planet rdfs:label "Pluto"@en ; dbo:meanTemperature ?temperature ; dbo:apoapsis ?apoapsis
 }
 #requête sur dbpedia.org
+
+Select ?planet ?temperature
+WHERE
+{
+?planet rdf:type dbo:Planet ; dbo:meanTemperature ?temperature
+}
+#une requête qui affiche plusieurs éléments d'une catégorie(planet)

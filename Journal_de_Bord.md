@@ -9,3 +9,5 @@
 |25.03.2024|Introduction au web sémantique|Suivi de la deuxième leçon du cours de la HPI, compréhension des termes "sujet", "prédicat", "objet".|
 |27.03.2024|Introduction au web sémantique et nouvelle source|SPARQL/Expressions and Functions (s.d., 2018) https://en.wikibooks.org/wiki/SPARQL/Expressions_and_Functions, Suivi du cours de la HPI sur la structure du web sémantique et de la structure RDF|
 |28.03.2024|Tutoriel et Code|Continuation du tutoriel avec les nouvelles informations du cours HPI et premières commandes SPARQL faites (dbpedia.org)|
+|22.04.2024|leçon SPARQL|Avec les cours de la HPI j'ai pu donné des noms sur les éléments que je codais avec SPARQL. Je vais aussi essayer de faire des requêtes qui auront plus d'une réponse. Par exemple sélectionner une catégorie entière. J'ai aussi continuer d'écrire le tutoriel.|
+|23.04.2024|Requête SPARQL|J'ai réussi a faire une requête pour sélectionner une catégorie d'objet et j'ai compris le terme "rdf:type" et "dbo:x"|
