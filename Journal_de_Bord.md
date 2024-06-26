@@ -15,3 +15,8 @@
 |30.05.2024|requêtes et tutoriel|J'ai continuer a faire des requêtes avec RHEA et UniProt. J'ai continué d'écrire le tutoriel.|
 |02.05.2024|Idées|Objectifs du tutoriel : Présenter le web sémantique et le fonctionnement de SPARQL, définir les termes de bases pour faire des requêtes, présenter des sites et expliquer certains exemples de requêtes sur ceux-ci, expliquer comment faire des graphes avec SPARQL.|
 |02.05.2024|plan du tutoriel|Introduction (expliquer les objectifs du tutoriels, faire un bref historique d'Internet). Premier chapitre : expliquer ce qu'est SPARQL et les termes de bases à connaitre. Deuxième chapitre : Présenter DBpedia et expliquer certaines requêtes avec les erreurs qui peuvent survenir. Troisième chapitre : Présenter RHEA et UNIprot de façon similaire au chapitre précedent. Quatrième chapitre : expliquer comment faire des graphes. Cinquième chapitre : Expliquer les limites de SPARQL. Conclusion : Expliquer de façon critique SPARQL en revenant sur les sujets du tutoriel et présenter les plus aux niveaux du web sémantique.|
+|10.06.2024|continuation du tutoriel|Ajouts de définitions des fonctions principales de SPARQL|
+|12.06.2024|continuation du tutoriel|Débuts du deuxième chapitre et la présentation de DBpedia|
+|18.06.2024|continuation du tutoriel|Ajouts de définitions de fonctions|
+|23.06.2024|continuation du tutoriel|Ajout de la définition d'ontologie et continuation du chapitre de DBpedia|
+|25.06.2024|continuation du tutoriel|Ajout de la présentation de RHEA ChEBI et UNIprot. Idée pour les exercices de DBpedia, prendre l'exemple d'auteurs et leurs livres pour faire des exercices simples et complexes.|

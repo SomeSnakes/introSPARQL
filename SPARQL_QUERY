@@ -25,3 +25,6 @@ WHERE
 ?livre rdfs:label "Madame Bovary"@fr ; ?livre rdfs:comment "Madame Bovary. MÅ“urs de province, couramment abrÃ©gÃ© en Madame Bovary, est un roman de Gustave Flaubert paru en 1857 chez Michel LÃ©vy frÃ¨res, aprÃ¨s une prÃ©parution en 1856 dans la Revue de Paris. Il s'agit d'une Å“uvre majeure de la littÃ©rature franÃ§aise. L'histoire est celle de l'Ã©pouse d'un mÃ©decin de province, Emma Bovary, qui lie des relations adultÃ¨res et vit au-dessus de ses moyens, essayant ainsi d'Ã©viter lâ€™ennui, la banalitÃ© et la mÃ©diocritÃ© de la vie provinciale."@fr
 }
 #Ceci est une erreur car une requête n'a pas pu être faite. Comme on peut le voir certain caractère ne font pas de sens, cela vient du fait que RDF utilise UNICODE (W3C,https://www.w3.org/TR/i18n-glossary/#dfn-character-encoding) et que l'ordi utilise ASCII.
+
+FILTER (LANG(?comment)="fr") .
+#cette commande permet de filtrer les informations en sélectionnant seulement une langue (LANG).
