@@ -22,4 +22,4 @@
 |25.06.2024|continuation du tutoriel|Ajout de la présentation de RHEA ChEBI et UNIprot. Idée pour les exercices de DBpedia, prendre l'exemple d'auteurs et leurs livres pour faire des exercices simples et complexes.|
 |11.08.2024|continuation du tutoriel|rajout de la requête de base|
 |13.04.2024|continuation du tutoriel|ajout d'exercices|
-|17.04.2024|continuation du tutoriel|ajout d'un nouveau fichier pour les réponses aux exercices|
+|17.04.2024|continuation du tutoriel|ajout d'un nouveau fichier pour les réponses aux exercices, j'ai aussi trouvé un site pour faire des Linked Open Graph|
