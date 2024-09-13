@@ -57,7 +57,7 @@ WHERE
   ?participant1 rh:compound ?compound1 .
   ?compound1 rh:chebi ch:CHEBI_30616 .
   
-    ?reaction rh:side ?reaction2 .
+  ?reaction rh:side ?reaction2 .
   ?reaction2 rh:contains ?participant2 .
   ?participant2 rh:compound ?compound2 .
   ?compound2 rh:chebi ch:CHEBI_456216 .
