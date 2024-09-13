@@ -23,3 +23,6 @@
 |11.08.2024|continuation du tutoriel|rajout de la requête de base|
 |13.04.2024|continuation du tutoriel|ajout d'exercices|
 |17.04.2024|continuation du tutoriel|ajout d'un nouveau fichier pour les réponses aux exercices, j'ai aussi trouvé un site pour faire des Linked Open Graph|
+|11.09.2024|continuation du tutoriel|L'introduction a été améliorer|
+|12.09.2024|continuation du tutoriel|Les chapitres sont numérotés. Une définition du web sémantique et de SPARQL a été rajoutée. Les exercices pour RHEA sont commencés. Ajout du chapitre pour aller plus loin.|
+|13.09.2024|continuation du tutoriel|Les exercices de RHEA sont finis. Un sous-chapitre sur les Linked Open Graphs a été créé.|
