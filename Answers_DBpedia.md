@@ -1,3 +1,5 @@
+|Annexe 1|Réponses DBpedia|
+|:--:|:--:|
 ## Exercice 1
 ### a)
 SELECT DISTINCT ?livre ?auteur

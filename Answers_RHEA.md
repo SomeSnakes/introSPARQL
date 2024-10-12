@@ -1,3 +1,5 @@
+| Annexe 2 | Réponses RHEA |
+|:--:|:--:|
 ## Exercice 6
 ### a)
 SELECT DISTINCT ?reaction ?equation
@@ -5,7 +7,8 @@ SELECT DISTINCT ?reaction ?equation
 WHERE
 
 {
-  ?reaction rdfs:subClassOf rh:Reaction
+  ?reaction rdfs:subClassOf rh:Reaction .
+  ?reaction rh:status rh:Approved
 }
 
   ORDER BY ?reaction
